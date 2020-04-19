@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4676c3f-7959-45d9-8d45-1a0418974f5e" name="Default Changelist" comment="" />
+    <list default="true" id="f4676c3f-7959-45d9-8d45-1a0418974f5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-springcloud-service-providerr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-springcloud-service-providerr/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-springcloud-service-consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

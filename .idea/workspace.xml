@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f38cadb5-84ad-43df-9ba8-d937c7d9db69" name="Default Changelist" comment="" />
+    <list default="true" id="f38cadb5-84ad-43df-9ba8-d937c7d9db69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-springcloud-service-providerr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-springcloud-service-providerr/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-springcloud-service-consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-springcloud-service-consumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\devProject\ideaProject\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1akADWFdCehiGy0yRkNGxkpxtYt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,13 +57,29 @@
       <option name="presentableId" value="Default" />
       <updated>1587269098109</updated>
     </task>
+    <task id="LOCAL-00001" summary="idea">
+      <created>1587313664183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587313664183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea" />
   </component>
   <component name="WindowStateProjectService">
     <state x="612" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587269946470">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="612" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1587269946470" />
+    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1587313662429">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="275" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587313662429" />
     <state x="532" y="102" key="FileChooserDialogImpl" timestamp="1587313510101">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
