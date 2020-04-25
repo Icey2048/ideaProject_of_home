@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/01-springcloud-service-providerr.iml" filepath="$PROJECT_DIR$/01-springcloud-service-providerr.iml" />
       <module fileurl="file://$PROJECT_DIR$/../02-springcloud-service-consumer/02-springcloud-service-consumer.iml" filepath="$PROJECT_DIR$/../02-springcloud-service-consumer/02-springcloud-service-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/../03-springcloud-eureka-server/03-springcloud-eureka-server.iml" filepath="$PROJECT_DIR$/../03-springcloud-eureka-server/03-springcloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06-springcloud-api-geteway/06-springcloud-api-geteway.iml" filepath="$PROJECT_DIR$/../06-springcloud-api-geteway/06-springcloud-api-geteway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-springcloud-config-server/07-springcloud-config-server.iml" filepath="$PROJECT_DIR$/07-springcloud-config-server/07-springcloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/../01-springcloud-service-providerr - 02/demo.iml" filepath="$PROJECT_DIR$/../01-springcloud-service-providerr - 02/demo.iml" />
     </modules>
   </component>
