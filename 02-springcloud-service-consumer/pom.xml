@@ -42,6 +42,13 @@
 			<version>2.2.2.RELEASE</version>
 		</dependency>
 
+		<!--Spring Cloud 熔断器起步依赖-->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-hystrix</artifactId>
+			<version>1.4.4.RELEASE</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>

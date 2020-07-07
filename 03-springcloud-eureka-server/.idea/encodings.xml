@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../01-springcloud-service-providerr - 02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../01-springcloud-service-providerr - 02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../01-springcloud-service-providerr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../01-springcloud-service-providerr/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../06-springcloud-api-geteway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../06-springcloud-api-geteway/src/main/resources" charset="UTF-8" />
   </component>
 </project>

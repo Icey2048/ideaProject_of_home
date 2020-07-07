@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f38cadb5-84ad-43df-9ba8-d937c7d9db69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-springcloud-service-providerr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-springcloud-service-providerr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-springcloud-service-consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-springcloud-service-consumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03-springcloud-eureka-server/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/03-springcloud-eureka-server" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -85,10 +90,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="275" y="0" width="990" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587314320260" />
-    <state x="532" y="102" key="FileChooserDialogImpl" timestamp="1587741791907">
+    <state x="532" y="102" key="FileChooserDialogImpl" timestamp="1593234650611">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="532" y="102" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587741791907" />
+    <state x="532" y="102" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593234650611" />
     <state x="398" y="76" key="NewModule_or_Project.wizard" timestamp="1587269370190">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -97,9 +102,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="288" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587313249334" />
-    <state x="580" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1587399534107">
+    <state x="580" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1593233496025">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="580" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587399534107" />
+    <state x="580" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1593233496025" />
   </component>
 </project>

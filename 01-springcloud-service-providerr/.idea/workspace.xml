@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ce5ddf1-7741-4c0a-8187-02d3f1a451fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/src/main/java/com/icey/spirngcloud/ConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/src/main/java/com/icey/springcloud/ConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/src/test/java/com/icey/spirngcloud/ConfigApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-springcloud-config-server/src/test/java/com/icey/springcloud/ConfigApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/src/main/java/com/icey/springcloud/ZuulApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-springcloud-api-geteway/src/test/java/com/icey/springcloud/ZuulApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-springcloud-eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03-springcloud-eureka-server/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +22,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\icey_\.m2\repository" />
+        <option name="mavenHome" value="D:/Software/Study/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Users\icey_\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -61,14 +44,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../03-springcloud-eureka-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.ZuulApplication">
+  <component name="RunManager" selected="Application.DemoApplication">
     <configuration name="Application8761" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.icey.springcloud.Application8761" />
       <module name="03-springcloud-eureka-server" />
@@ -97,9 +80,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.icey.springcloud.DemoApplication" />
-      <module name="demo" />
+      <module name="01-springcloud-service-providerr" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.icey.springcloud.*" />
@@ -138,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoApplication" />
         <item itemvalue="Application.ZuulApplication" />
         <item itemvalue="Application.ProjectNameDemoConsumerApplication" />
         <item itemvalue="Application.Application8762" />
         <item itemvalue="Application.Application8761" />
-        <item itemvalue="Application.DemoApplication (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -184,30 +167,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="388" y="5" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1587281016018" />
-    <state x="377" y="2" key="#Project_Structure" timestamp="1587811251706">
+    <state x="377" y="2" key="#Project_Structure" timestamp="1588258796622">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="377" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1587811251706" />
-    <state x="135" y="27" key="FileChooserDialogImpl" timestamp="1587831190950">
+    <state x="377" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1588258796622" />
+    <state x="738" y="50" key="FileChooserDialogImpl" timestamp="1588481131259">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="135" y="27" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587831190950" />
-    <state width="769" height="258" key="GridCell.Tab.0.bottom" timestamp="1587831445650">
+    <state x="738" y="50" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588481131259" />
+    <state width="991" height="247" key="GridCell.Tab.0.bottom" timestamp="1593190829482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="769" height="258" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587831445650" />
-    <state width="769" height="258" key="GridCell.Tab.0.center" timestamp="1587831445650">
+    <state width="991" height="247" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593190829482" />
+    <state width="991" height="247" key="GridCell.Tab.0.center" timestamp="1593190829482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="769" height="258" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587831445650" />
-    <state width="769" height="258" key="GridCell.Tab.0.left" timestamp="1587831445650">
+    <state width="991" height="247" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593190829482" />
+    <state width="991" height="247" key="GridCell.Tab.0.left" timestamp="1593190829481">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="769" height="258" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587831445650" />
-    <state width="769" height="258" key="GridCell.Tab.0.right" timestamp="1587831445650">
+    <state width="991" height="247" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593190829481" />
+    <state width="991" height="247" key="GridCell.Tab.0.right" timestamp="1593190829482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="769" height="258" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587831445650" />
+    <state width="991" height="247" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593190829482" />
     <state width="989" height="210" key="GridCell.Tab.1.bottom" timestamp="1587810341272">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -228,21 +211,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="398" y="76" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1587809830775" />
-    <state x="287" y="0" key="SettingsEditor" timestamp="1587824074173">
+    <state x="287" y="0" key="SettingsEditor" timestamp="1588481107840">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="287" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587824074173" />
-    <state x="447" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1587811153893">
+    <state x="287" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588481107840" />
+    <state x="447" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1588480714888">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="447" y="201" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587811153893" />
+    <state x="447" y="201" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588480714888" />
     <state x="358" y="80" width="852" height="565" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587810337903">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="358" y="80" width="852" height="565" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1587810337903" />
-    <state x="583" y="51" width="547" height="583" key="new project wizard" timestamp="1587831424037">
+    <state x="370" y="97" width="547" height="583" key="new project wizard" timestamp="1588254622530">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="583" y="51" width="547" height="583" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587831424037" />
+    <state x="370" y="97" width="547" height="583" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1588254622530" />
   </component>
 </project>
