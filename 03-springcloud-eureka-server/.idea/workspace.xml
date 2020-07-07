@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4676c3f-7959-45d9-8d45-1a0418974f5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-springcloud-service-providerr - 02/src/main/java/com/icey/springcloud/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-springcloud-service-providerr/src/main/java/com/icey/springcloud/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/java/com/icey/springcloud/controller/HystrixController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/java/com/icey/springcloud/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-springcloud-service-providerr - 02/src/main/java/com/icey/springcloud/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-springcloud-service-providerr - 02/src/main/java/com/icey/springcloud/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-springcloud-service-providerr - 02/target/classes/com/icey/springcloud/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01-springcloud-service-providerr - 02/target/classes/com/icey/springcloud/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-springcloud-service-providerr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-springcloud-service-providerr/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-springcloud-service-providerr/src/main/java/com/icey/springcloud/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-springcloud-service-providerr/src/main/java/com/icey/springcloud/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-springcloud-service-providerr/target/classes/com/icey/springcloud/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01-springcloud-service-providerr/target/classes/com/icey/springcloud/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-springcloud-service-consumer/02-springcloud-service-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/02-springcloud-service-consumer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-springcloud-service-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/java/com/icey/springcloud/ProjectNameDemoConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/java/com/icey/springcloud/ProjectNameDemoConsumerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/java/com/icey/springcloud/config/BeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/java/com/icey/springcloud/config/BeanConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/java/com/icey/springcloud/controller/WebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/src/main/java/com/icey/springcloud/controller/WebController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-springcloud-service-consumer/target/classes/com/icey/springcloud/ProjectNameDemoConsumerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/target/classes/com/icey/springcloud/ProjectNameDemoConsumerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-springcloud-service-consumer/target/classes/com/icey/springcloud/config/BeanConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/target/classes/com/icey/springcloud/config/BeanConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-springcloud-service-consumer/target/classes/com/icey/springcloud/controller/WebController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02-springcloud-service-consumer/target/classes/com/icey/springcloud/controller/WebController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="f4676c3f-7959-45d9-8d45-1a0418974f5e" name="Default Changelist" comment="服务熔断">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +160,19 @@
       <option name="presentableId" value="Default" />
       <updated>1587217719098</updated>
     </task>
+    <task id="LOCAL-00001" summary="服务熔断">
+      <created>1594127991557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594127991557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="服务熔断" />
+    <option name="LAST_COMMIT_MESSAGE" value="服务熔断" />
   </component>
   <component name="WindowStateProjectService">
     <state x="546" y="35" key="#Application8761" timestamp="1587792204667">
@@ -218,10 +207,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="519" y="254" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1593238459139" />
-    <state x="174" y="0" key="CommitChangelistDialog2" timestamp="1594127963788">
+    <state x="174" y="0" key="CommitChangelistDialog2" timestamp="1594128009893">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="174" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594127963788" />
+    <state x="174" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594128009893" />
     <state x="357" y="76" key="FileChooserDialogImpl" timestamp="1593234725895">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
